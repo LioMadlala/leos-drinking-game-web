@@ -1,0 +1,29 @@
+com.leocorp.drinking.game.app-jetified-core-1.0.0-0 C:\Users\Londokuhle\.gradle\caches\transforms-3\0bf72f6583dbd858fe6c1a83fbdead07\transformed\jetified-core-1.0.0\res
+com.leocorp.drinking.game.app-fragment-1.7.1-1 C:\Users\Londokuhle\.gradle\caches\transforms-3\0cd96ed79e2ef93f20d98b9382449bf8\transformed\fragment-1.7.1\res
+com.leocorp.drinking.game.app-jetified-startup-runtime-1.1.1-2 C:\Users\Londokuhle\.gradle\caches\transforms-3\0e5195ced0a2498ce4b78e7520a2e701\transformed\jetified-startup-runtime-1.1.1\res
+com.leocorp.drinking.game.app-lifecycle-runtime-2.7.0-3 C:\Users\Londokuhle\.gradle\caches\transforms-3\24399cc7a659df7667bf62bb0d776735\transformed\lifecycle-runtime-2.7.0\res
+com.leocorp.drinking.game.app-jetified-profileinstaller-1.3.1-4 C:\Users\Londokuhle\.gradle\caches\transforms-3\2ede0b952ff8812f6bf9594974e5b0b9\transformed\jetified-profileinstaller-1.3.1\res
+com.leocorp.drinking.game.app-jetified-lifecycle-livedata-core-ktx-2.7.0-5 C:\Users\Londokuhle\.gradle\caches\transforms-3\53d4fa5842e9ff1c1efdb8c7d80df7f7\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.leocorp.drinking.game.app-jetified-lifecycle-process-2.7.0-6 C:\Users\Londokuhle\.gradle\caches\transforms-3\5a4553ee3779243c2988ceb7713f0dd8\transformed\jetified-lifecycle-process-2.7.0\res
+com.leocorp.drinking.game.app-jetified-activity-1.8.1-7 C:\Users\Londokuhle\.gradle\caches\transforms-3\625c34d7a4da2e06278a93f5bfbe4982\transformed\jetified-activity-1.8.1\res
+com.leocorp.drinking.game.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-8 C:\Users\Londokuhle\.gradle\caches\transforms-3\6845e7176b975d635f621a864c721d47\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.leocorp.drinking.game.app-jetified-annotation-experimental-1.4.0-9 C:\Users\Londokuhle\.gradle\caches\transforms-3\7b9ef3c51cb4995c7749da742d171e5d\transformed\jetified-annotation-experimental-1.4.0\res
+com.leocorp.drinking.game.app-lifecycle-livedata-2.7.0-10 C:\Users\Londokuhle\.gradle\caches\transforms-3\82a4a39b1ae0022c185c977ebaaa4852\transformed\lifecycle-livedata-2.7.0\res
+com.leocorp.drinking.game.app-jetified-window-java-1.2.0-11 C:\Users\Londokuhle\.gradle\caches\transforms-3\85b69d60c70bcb17c8dc699849568f74\transformed\jetified-window-java-1.2.0\res
+com.leocorp.drinking.game.app-jetified-window-1.2.0-12 C:\Users\Londokuhle\.gradle\caches\transforms-3\97da43707aebf94d9bba48263fc84575\transformed\jetified-window-1.2.0\res
+com.leocorp.drinking.game.app-core-1.13.1-13 C:\Users\Londokuhle\.gradle\caches\transforms-3\a7e583077a4ba084c756bfd11ffabf65\transformed\core-1.13.1\res
+com.leocorp.drinking.game.app-lifecycle-viewmodel-2.7.0-14 C:\Users\Londokuhle\.gradle\caches\transforms-3\b9caf1822f85fa51da64cb3150fb144d\transformed\lifecycle-viewmodel-2.7.0\res
+com.leocorp.drinking.game.app-jetified-savedstate-1.2.1-15 C:\Users\Londokuhle\.gradle\caches\transforms-3\be49f01f464a20a2b3e29f83762baa5f\transformed\jetified-savedstate-1.2.1\res
+com.leocorp.drinking.game.app-lifecycle-livedata-core-2.7.0-16 C:\Users\Londokuhle\.gradle\caches\transforms-3\d3d757440aaa5c643dceffeb41b805e6\transformed\lifecycle-livedata-core-2.7.0\res
+com.leocorp.drinking.game.app-core-runtime-2.2.0-17 C:\Users\Londokuhle\.gradle\caches\transforms-3\e3454a415821d4f5d7d87e37f4af937f\transformed\core-runtime-2.2.0\res
+com.leocorp.drinking.game.app-jetified-core-ktx-1.13.1-18 C:\Users\Londokuhle\.gradle\caches\transforms-3\f3c28adf0489397a3b482a3a617910b8\transformed\jetified-core-ktx-1.13.1\res
+com.leocorp.drinking.game.app-jetified-tracing-1.2.0-19 C:\Users\Londokuhle\.gradle\caches\transforms-3\f48d38dcb4893f091d94ecb3f98daea1\transformed\jetified-tracing-1.2.0\res
+com.leocorp.drinking.game.app-debug-20 C:\Users\Londokuhle\Documents\Work\Test Projects\leos_drinking_game\android\app\src\debug\res
+com.leocorp.drinking.game.app-main-21 C:\Users\Londokuhle\Documents\Work\Test Projects\leos_drinking_game\android\app\src\main\res
+com.leocorp.drinking.game.app-pngs-22 C:\Users\Londokuhle\Documents\Work\Test Projects\leos_drinking_game\build\app\generated\res\pngs\debug
+com.leocorp.drinking.game.app-resValues-23 C:\Users\Londokuhle\Documents\Work\Test Projects\leos_drinking_game\build\app\generated\res\resValues\debug
+com.leocorp.drinking.game.app-rs-24 C:\Users\Londokuhle\Documents\Work\Test Projects\leos_drinking_game\build\app\generated\res\rs\debug
+com.leocorp.drinking.game.app-mergeDebugResources-25 C:\Users\Londokuhle\Documents\Work\Test Projects\leos_drinking_game\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.leocorp.drinking.game.app-mergeDebugResources-26 C:\Users\Londokuhle\Documents\Work\Test Projects\leos_drinking_game\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.leocorp.drinking.game.app-merged_res-27 C:\Users\Londokuhle\Documents\Work\Test Projects\leos_drinking_game\build\app\intermediates\merged_res\debug
+com.leocorp.drinking.game.app-packaged_res-28 C:\Users\Londokuhle\Documents\Work\Test Projects\leos_drinking_game\build\flutter_native_splash\intermediates\packaged_res\debug
